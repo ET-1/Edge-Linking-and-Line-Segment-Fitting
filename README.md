@@ -1,10 +1,19 @@
 # Edge-Linking-and-Line-Segment-Fitting
 
 ## Introduction
-A Python version of Peter Kovesi's MATLAB and Octave functions for Computer Vision and Image Processing. This project only contains `<Edge Linking and Line Segment Fitting>` module. The thing I do is rewritting `<Edge Linking and Line Segment Fitting>` module in python.
+A Python version of Peter Kovesi's MATLAB and Octave functions for Computer Vision and Image Processing. This project only contains `<Edge Linking and Line Segment Fitting>` module. The thing I did is rewritting `<Edge Linking and Line Segment Fitting>` module in python.
 
 ## Usage
+In `edgelink.py`, change your own input path and output path in `line #7` and `line #10` as comments directed.<br> 
+If you are not using `<.jpg>` images as input. Then, change the extension in `line #21`.<br><br>
+Finally, just run `edgelink.py` without parameters.<br>
 
+## Preview of results
+![](test_images_out/3.jpg)<br>
+![](test_images_out/3_canny.jpg)<br>
+![](test_images_out/3_filter.jpg)<br>
+![](test_images_out/3_segline.jpg)<br>
+![](test_images_out/3_finaline.jpg)<br><br>
 ## Copyright
 Copyright (c) 1996-2017 Peter Kovesi<br> 
 Centre for Exploration Targeting<br> 
