@@ -14,6 +14,8 @@ Finally, just run `edgelink.py` without parameters.<br>
 <img src="test_images_out/3_filter.jpg" width="370" height="500"> 
 <img src="test_images_out/3_segline.jpg" width="370" height="500"> 
 <img src="test_images_out/3_finaline.jpg" width="370" height="500"> 
+
+
 ## Copyright
 Copyright (c) 1996-2017 Peter Kovesi<br> 
 Centre for Exploration Targeting<br> 
