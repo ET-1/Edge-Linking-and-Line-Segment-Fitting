@@ -9,11 +9,11 @@ If you are not using `<.jpg>` images as input. Then, change the extension in `li
 Finally, just run `edgelink.py` without parameters.<br>
 
 ## Preview of results
-![](test_images_out/3.jpg)<br>
-![](test_images_out/3_canny.jpg)<br>
-![](test_images_out/3_filter.jpg)<br>
-![](test_images_out/3_segline.jpg)<br>
-![](test_images_out/3_finaline.jpg)<br><br>
+<img src="test_images_out/3.jpg" width="350" height="500"> 
+<img src="test_images_out/3_canny.jpg" width="370" height="500"> 
+<img src="test_images_out/3_filter.jpg" width="370" height="500"> 
+<img src="test_images_out/3_segline.jpg" width="370" height="500"> 
+<img src="test_images_out/3_finaline.jpg" width="370" height="500"> 
 ## Copyright
 Copyright (c) 1996-2017 Peter Kovesi<br> 
 Centre for Exploration Targeting<br> 
